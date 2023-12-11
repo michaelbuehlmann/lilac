@@ -1,0 +1,5 @@
+{
+    "cmake.buildEnvironment": {
+        "CIME_ROOT": "/Users/mbuehlmann/ANL_LOCAL/Projects/cime"
+    }
+}

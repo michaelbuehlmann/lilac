@@ -1,0 +1,3 @@
+[submodule "external/CMake_Fortran_utils"]
+	path = external/CMake_Fortran_utils
+	url = https://github.com/CESM-Development/CMake_Fortran_utils.git
