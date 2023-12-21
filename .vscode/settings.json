@@ -1,5 +1,6 @@
 {
     "cmake.buildEnvironment": {
-        "CIME_ROOT": "/Users/mbuehlmann/ANL_LOCAL/Projects/cime"
+        "CIME_ROOT": "/Users/mbuehlmann/ANL_LOCAL/Projects/lilac/external/cime",
+        "ESMF_CONFIG": "/Users/mbuehlmann/ANL_LOCAL/Projects/esmf/lib/libO/Darwin.gfortranclang.64.mpiuni.default/esmf.mk"
     }
 }

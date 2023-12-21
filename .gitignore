@@ -1,6 +1,6 @@
 # directories that are checked out by the tool
-cime/
-cime_config/
+# cime/
+# cime_config/
 components/
 
 # generated local files
